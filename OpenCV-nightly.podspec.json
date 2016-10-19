@@ -10,7 +10,7 @@
   },
   "authors": "opencv.org",
   "source": {
-    "http": "https://github.com/darekxan/opencv/releases/download/master/opencv2.framework.zip"
+    "http": "https://github.com/kylefleming/opencv/releases/download/3.1.0-ios-fix/opencv2.framework.zip"
   },
   "platforms": {
     "ios": "4.0"
